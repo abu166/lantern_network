@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+data/
+.venv/
+.DS_Store
+
+deploy/*.plist
+deploy/*.service
